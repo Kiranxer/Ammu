@@ -2,7 +2,7 @@
 {
 	"name": "WhatsAppBot-MD",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"repository": "https://github.com/Kiranxer/Ammu",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","WhatsApp Bot"],
@@ -22,7 +22,7 @@
     },
     "SESSION_ID": {
       "description": "Your Session ID",
-      "required": true
+      "required": false
     },
     "HANDLERS": {
       "description": "prefix for commands, enter false for no prefix",
